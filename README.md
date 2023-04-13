@@ -54,9 +54,9 @@ Clone this repository to get started with the project.
 
 👤 **Ashmal Zahra**
 
-- GitHub: [@githubhandle](https://github.com/ashmalzahra)
-- Twitter: [@twitterhandle](https://twitter.com/AshmalZahraa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashmal-zahra)
+- GitHub: [@ashmalzahra](https://github.com/ashmalzahra)
+- Twitter: [@AshmalZahraa](https://twitter.com/AshmalZahraa)
+- LinkedIn: [ashmal-zahra](https://www.linkedin.com/in/ashmal-zahra)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
